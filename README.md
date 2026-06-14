@@ -1,2 +1,3 @@
 # AminiGame
 C++ game
+```cpp
